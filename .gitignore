@@ -1,0 +1,21 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+**/build/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
