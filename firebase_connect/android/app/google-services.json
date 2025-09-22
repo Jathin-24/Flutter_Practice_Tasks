@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405052621956",
+    "project_id": "fir-connect-33a14",
+    "storage_bucket": "fir-connect-33a14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405052621956:android:9369a81cab29d2c1ff6ed1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6ijc5wnaitYtjHLoK_WVowRJ25mFvEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
