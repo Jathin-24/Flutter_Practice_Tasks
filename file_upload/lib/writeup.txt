@@ -1,8 +1,0 @@
-1. Widget Structure:
-The app uses a StatefulWidget (FileUploadScreen) wrapped in a Scaffold that includes an AppBar, a Body with a vertical Column layout, and a BottomAppBar. UI elements like Card, ElevatedButton, and dynamic preview widgets are used for file selection and display. State is managed with setState, enabling hot reload effectively.
-
-2. Color and Design Choices:
-Material Design 3 (useMaterial3: true) is applied using ColorScheme.fromSeed with a teal seed color. The design uses responsive components with elevated cards and themed buttons to create a clean and modern look, consistent with Material guidelines.
-
-3. Troubleshooting Done in Android Studio:
-Faced an issue where file_picker plugin wasn’t functioning on Windows. Resolved by switching to an Android emulator and ensuring permissions were correctly set. Used flutter clean, flutter pub get, and rebuilt the project to fix missing dependencies and ensure hot reload worked smoothly.
